@@ -36,3 +36,6 @@ src/
 ├── ListeArticles.js      # Utilisation de useFetch
 ├── Timer.js              # Exemple useEffect + setInterval + cleanup
 └── index.js
+
+
+
