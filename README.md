@@ -37,5 +37,10 @@ src/
 ├── Timer.js              # Exemple useEffect + setInterval + cleanup
 └── index.js
 
+````
+## Resultat d'execution
+
+
+https://github.com/user-attachments/assets/282be10b-c37b-44f3-a910-b626b61fe08d
 
 
